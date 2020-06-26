@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">java test 4</string>
+    <string name="slycalendar_singledate" translatable="false">EE, dd MMMM</string>
+    <string name="slycalendar_short" translatable="false">EE, dd</string>
+    <string name="slycalendar_short_month" translatable="false">EE, dd MMM</string>
+    <string name="slycalendar_dates_period" translatable="false">%1$s – %2$s</string>
+
+    <string name="slycalendar_cancel">Cancel</string>
+    <string name="slycalendar_save">Save</string>
+    <string name="slycalendar_next">Next</string>
+    <string name="slycalendar_prev">Prev</string>
+
+    <string name="dateFormat" translatable="false">EE, dd MMM</string>
+    <string name="timeFormat" translatable="false">EE, dd MMM HH:mm</string>
+    <string name="period" translatable="false">%1$s – %2$s</string>
+</resources>
